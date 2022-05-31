@@ -1,4 +1,4 @@
-this was the question describing what each script is doing
+💚💛❤️this was the question describing what each script is doing💚💛❤️
 
 Shell, init files, variables and expansions
 
